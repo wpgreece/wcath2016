@@ -90,7 +90,7 @@ td {
 	border:1px solid #000
 }
 .post-navigation .nav-next:after {
-	background:transparent url('http://2016.athens.wordcamp.org/files/2016/07/icons-sm.png');
+	background:transparent url('https://2016.athens.wordcamp.org/files/2016/07/icons-sm.png');
 	background-repeat:no-repeat;
 	content:'';
 	display:inline-block;
@@ -129,7 +129,7 @@ html {
 }
 body {
 	background:#ece3db;
-	background-image:url('http://2016.athens.wordcamp.org/files/2016/06/background.png');
+	background-image:url('https://2016.athens.wordcamp.org/files/2016/06/background.png');
 	color:#212121;
 	font-family:"Roboto", sans-serif;
 	font-size:1rem
@@ -180,7 +180,7 @@ input[type='submit']:hover {
 	height:100vh
 }
 .site-header {
-	background:#4191ce url('http://2016.athens.wordcamp.org/files/2016/07/texnopolis_panoramic.jpg') 50% 100% no-repeat;
+	background:#4191ce url('https://2016.athens.wordcamp.org/files/2016/07/texnopolis_panoramic.jpg') 50% 100% no-repeat;
 	background-size:cover !important;
 	margin-bottom:7.75rem;
 	position:relative;
@@ -721,7 +721,7 @@ article.post,article.page {
 	text-align:center
 }
 .site-info .site-info-generator {
-	background:url('https://2016.athens.wordcamp.org/files/2016/06/wordcamp_logo.png') 50% 0 no-repeat;
+	background:url('httpss://2016.athens.wordcamp.org/files/2016/06/wordcamp_logo.png') 50% 0 no-repeat;
 	color:#fff;
 	display:block;
 	padding-top:6rem;
@@ -736,7 +736,7 @@ article.post,article.page {
 	color:#fff
 }
 .site-info .site-info-network {
-	background:url('https://2016.athens.wordcamp.org/files/2016/07/header-ribbon.png') 50% 0 no-repeat;
+	background:url('httpss://2016.athens.wordcamp.org/files/2016/07/header-ribbon.png') 50% 0 no-repeat;
 	-moz-box-sizing:border-box;
 	-webkit-box-sizing:border-box;
 	box-sizing:border-box;
@@ -877,7 +877,7 @@ body div.sharedaddy h3.sd-title:before {
 .site-title {
 	width:271px;
 	height:500px;
-	background:url('http://2016.athens.wordcamp.org/files/2016/07/logocathens2016.png') no-repeat;
+	background:url('https://2016.athens.wordcamp.org/files/2016/07/logocathens2016.png') no-repeat;
 	margin:0 auto;
 	text-indent:100%;
 	white-space:nowrap;
@@ -1009,7 +1009,7 @@ aside#text-6 h4 {
 
 
 footer.entry-meta .cat-links:before,footer.entry-meta .tag-links:before,footer.entry-meta .comments-link:before,footer.entry-meta .edit-link:before,.post-navigation .nav-previous:before {
-	background:transparent url('http://2016.athens.wordcamp.org/files/2016/07/icons-sm-1.png');
+	background:transparent url('https://2016.athens.wordcamp.org/files/2016/07/icons-sm-1.png');
 	background-repeat:no-repeat;
 	content:'';
 	display:inline-block;
