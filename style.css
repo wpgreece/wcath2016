@@ -185,6 +185,7 @@ input[type='submit']:hover {
 	margin-bottom:7.75rem;
 	position:relative;
 	text-align:center
+	background-attachment: fixed;
 }
 .home .site-header hgroup {
 	position:relative;
