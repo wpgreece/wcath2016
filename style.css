@@ -83,7 +83,8 @@ table {
 	border-collapse:collapse;
 	border-spacing:0;
 	font-size:.8rem;
-	border:1px solid #000
+	border:1px solid #000;
+	margin-bottom: 20px;
 }
 td {
 	padding:5px;
