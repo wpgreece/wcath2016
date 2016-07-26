@@ -208,7 +208,7 @@ input[type='submit']:hover {
     text-align: center;
 }
 
-.post .site-header {
+.single .site-header {
     background: #4191ce url('http://2016.athens.wordcamp.org/files/2016/07/headerimage.jpg') 50% 50% no-repeat;
     background-size: cover !important;
     margin-bottom: 7.75rem;
