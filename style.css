@@ -618,6 +618,9 @@ article.post,article.page {
 .post-navigation .nav-next {
 	float:right
 }
+.page .comments-area {
+    display: none;
+}
 .comments-area {
 	background:#fff;
 	border-top:10px solid #125080;
