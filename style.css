@@ -41,10 +41,6 @@ a.genericon-instagram:hover::before {
 a.genericon-youtube:hover::before {
 	color:#b00 !important
 }
-.single-wcb_sponsor  article {
-    background: white;
-    padding: 2rem;
-}
 
 /*******************************************************************************************************/
 
@@ -436,7 +432,8 @@ h1,h2,h3,h4,h5,h6 {
 		width:30%
 	}
 }
-article.post,article.page {
+article.post,article.page,
+.single-wcb_sponsor  article {
 	background-color:#fff;
 	background-position:0 0, 50% 100%;
 	background-repeat:no-repeat, no-repeat;
