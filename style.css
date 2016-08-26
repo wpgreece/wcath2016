@@ -41,6 +41,10 @@ a.genericon-instagram:hover::before {
 a.genericon-youtube:hover::before {
 	color:#b00 !important
 }
+.single-wcb_sponsor  article {
+    background: white;
+    padding: 2rem;
+}
 
 /*******************************************************************************************************/
 
