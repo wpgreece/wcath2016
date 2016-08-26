@@ -433,7 +433,7 @@ h1,h2,h3,h4,h5,h6 {
 	}
 }
 article.post,article.page,
-.single-wcb_sponsor  article {
+.single-wcb_sponsor .site-content {
 	background-color:#fff;
 	background-position:0 0, 50% 100%;
 	background-repeat:no-repeat, no-repeat;
