@@ -633,6 +633,7 @@ article.post,article.page,
 	padding:2.53125rem
 }
 span.required {color:#FF2200;}
+label {display: block; margin:8px 0 16px;}
 p.comment-notes{font-size: 0.875rem; margin: 20px 0 45px;}
 label{display: block;}
 .comments-area .comments-title {
