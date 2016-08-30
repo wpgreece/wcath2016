@@ -713,7 +713,8 @@ p.comment-notes{font-size: 0.875rem; margin: 20px 0 45px;}
 }
 .widget p {
 	line-height:1.5;
-	margin:0 0 1rem
+	margin:0 0 1rem;
+	font: 0.875rem;
 }
 .widget .widget-title {
 	border-bottom:2px solid #1b80cd;
