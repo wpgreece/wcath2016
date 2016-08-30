@@ -633,7 +633,7 @@ article.post,article.page,
 	padding:2.53125rem
 }
 
-label {display: block; margin:18px 0 8px;}
+label {display: block; margin:18px 0 9px;}
 p.form-submit{ margin:32px 0 48px; width: 40%}
 p.comment-notes{font-size: 0.875rem; margin: 20px 0 45px;}
 p.comment-subscription-form {margin-bottom:9px; font-weight: normal;}
