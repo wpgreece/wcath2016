@@ -633,7 +633,8 @@ article.post,article.page,
 	padding:2.53125rem
 }
 span.required {color:#FF2200;}
-label {display: block; margin:8px 0 16px;}
+label {display: block; margin:18px 0 8px;}
+p.form-submit{ margin:32px 0 48px;}
 p.comment-notes{font-size: 0.875rem; margin: 20px 0 45px;}
 label{display: block;}
 .comments-area .comments-title {
