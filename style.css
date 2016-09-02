@@ -41,7 +41,11 @@ a.genericon-instagram:hover::before {
 a.genericon-youtube:hover::before {
 	color:#b00 !important
 }
-
+.entry-content .contact-submit, .comment-content .contact-submit,
+.contact-form input[type="email"], .contact-form input[type="text"]
+{
+	max-width: 80%!important;
+}
 
 /*******************************************************************************************************/
 
