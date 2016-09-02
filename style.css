@@ -41,12 +41,12 @@ a.genericon-instagram:hover::before {
 a.genericon-youtube:hover::before {
 	color:#b00 !important
 }
-.entry-content .contact-submit, .comment-content .contact-submit,
-.contact-form input[type="email"], .contact-form input[type="text"]
+.entry-content .contact-submit, .comment-content .contact-submit
 {
 	max-width: 80%!important;
 }
 
+.contact-form input[type="email"], .contact-form input[type="text"]{width: 98%; max-width: 98%;}
 /*******************************************************************************************************/
 
 html,body,div,span,applet,object,iframe,
