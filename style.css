@@ -45,6 +45,7 @@ a.genericon-youtube:hover::before {
 {max-width: 80%!important;}
 
 .contact-form input[type="email"],.contact-form input[type="text"]{width:80%!important; max-width:80%!important;}
+.wcorg-sponsor h3{display: none!important;}
 /*******************************************************************************************************/
 
 html,body,div,span,applet,object,iframe,
