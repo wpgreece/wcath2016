@@ -746,10 +746,10 @@ label{display: block;}
 	transition:color 300ms
 }
 .main-navigation ul > li a:hover {
-	color:#125080
+	color:#125080!important;
 }
 .widget li a:hover {
-	color:#125080
+	color:#125080!important;
 }
 .site-info {
 	background:#5091FF;
