@@ -288,7 +288,7 @@ input[type='submit']:hover {
 	display:block
 }
 .main-navigation ul ul {
-	background:rgba(255,255,255,0.9);
+	background:rgba(255,255,255,1);
 	display:none;
 	padding:.66667rem 1.125rem;
 	position:absolute;
