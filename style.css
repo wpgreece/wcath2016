@@ -58,6 +58,8 @@ a.genericon-youtube:hover::before {
     display: inline-block;
     float: left;
     margin-right: 1rem;
+    width: 130px!important;
+    height: 130px!important;
 }
 /*******************************************************************************************************/
 
