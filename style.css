@@ -54,7 +54,7 @@ a.genericon-youtube:hover::before {
 }
 
 .wcorg-speaker-description img {
-    border-radius: 3rem;
+    border-radius: 6rem;
     display: inline-block;
     float: left;
     margin-right: 1rem;
