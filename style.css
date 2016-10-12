@@ -50,7 +50,7 @@ a.genericon-youtube:hover::before {
 .post-33 .entry-content p, .comment-content p, .entry-content address {
     line-height: 1.5;
     margin: 0 0 0.5rem;
-    display: inline;
+    text-align: justify!important;
 }
 
 .wcorg-speaker-description img {
