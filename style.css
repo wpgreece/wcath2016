@@ -68,7 +68,7 @@ a.genericon-youtube:hover::before {
     font-weight: 700;
     font-style: italic;
     color: #125080;
-    margin: 45px 0 9px;
+    margin: 45px 0 9px!important;
 }
 /*******************************************************************************************************/
 
