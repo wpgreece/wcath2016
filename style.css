@@ -61,6 +61,11 @@ a.genericon-youtube:hover::before {
     width: 130px!important;
     height: 130px!important;
 }
+
+.post-33 h2 {
+    border-bottom: 2px solid #4191ce;
+    padding-bottom: 0.5rem;
+}
 /*******************************************************************************************************/
 
 html,body,div,span,applet,object,iframe,
