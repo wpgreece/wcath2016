@@ -924,7 +924,7 @@ body div.sharedaddy h3.sd-title:before {
 	color:#fff
 }
 .wcpt-schedule .global-session .wcpt-session-type-custom {
-	background:#d6e9e6;
+	background:#C5DBFF;
 	border:1px solid #fff
 }
 .wcpt-schedule .wcpt-session-title {
@@ -937,7 +937,7 @@ body div.sharedaddy h3.sd-title:before {
 	line-height:1.125
 }
 .wcpt-schedule .wcpt-session-speakers a {
-	color:#83bcb3
+	color: #125080;
 }
 .wcpt-schedule a {
 	color:#5091ff;
