@@ -84,6 +84,22 @@ a.genericon-youtube:hover::before {
     font-size: 16px!important;
     /* width: 100%; */
 }
+
+.single-wcb_speaker .entry-meta {
+	display:none;
+}
+
+.single-wcb_speaker .speaker-avatar {
+	display: inline;
+}
+
+.single-wcb_speaker .speaker-avatar img {
+    height: 110px;
+    width: 110px;
+    border-radius: 9rem;
+    display: inline;
+    float: left;
+}
 /*******************************************************************************************************/
 
 html,body,div,span,applet,object,iframe,
