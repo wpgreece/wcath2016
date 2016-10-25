@@ -905,13 +905,13 @@ body div.sharedaddy h3.sd-title:before {
 	padding:.75rem
 }
 .wcpt-schedule th {
-	background:#0e5a6a;
+	background:#125080;
 	border:1px solid #fff;
 	color:#fff;
 	font-family:"Crete Round", serif
 }
 .wcpt-schedule .wcpt-time {
-	background:#fff0df;
+	background:#A5C7FF;
 	border:1px solid #fff;
 	font-family:"Crete Round", serif
 }
@@ -920,7 +920,7 @@ body div.sharedaddy h3.sd-title:before {
 	border:1px solid #fff
 }
 .wcpt-schedule .global-session .wcpt-time {
-	background:#83bcb3;
+	background:#5091ff;
 	color:#fff
 }
 .wcpt-schedule .global-session .wcpt-session-type-custom {
@@ -940,10 +940,10 @@ body div.sharedaddy h3.sd-title:before {
 	color:#83bcb3
 }
 .wcpt-schedule a {
-	color:#1aaacd
+	color:#5091ff;
 }
 .wcpt-schedule a:hover {
-	color:#e97067
+	color:#0e63d8;
 }
 .sponsor-level-title {
 	border-bottom:5px solid #83bcb3;
