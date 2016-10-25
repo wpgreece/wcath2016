@@ -99,6 +99,7 @@ a.genericon-youtube:hover::before {
     border-radius: 9rem;
     display: inline;
     float: left;
+    margin-right: 1rem;
 }
 /*******************************************************************************************************/
 
