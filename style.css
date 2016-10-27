@@ -105,6 +105,10 @@ a.genericon-youtube:hover::before {
 .page-id-129 #secondary {
 	display:none;
 }
+
+.page-id-129 #primary {
+	width: 100%;
+}
 /*******************************************************************************************************/
 
 html,body,div,span,applet,object,iframe,
