@@ -114,7 +114,8 @@ a.genericon-youtube:hover::before {
 /* entire container, keeps perspective */
 .flip-container {
 	perspective: 200px;
-}
+	display:inline;
+}	
 	/* flip the pane when hovered */
 	.flip-container:hover .flipper, .flip-container.hover .flipper {
 		transform: rotateY(180deg);
@@ -136,7 +137,6 @@ a.genericon-youtube:hover::before {
 /* hide back of pane during swap */
 .front, .back {
 	backface-visibility: hidden;
-
 	position: absolute;
 	top: 0;
 	left: 0;
