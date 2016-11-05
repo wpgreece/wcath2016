@@ -47,7 +47,7 @@ a.genericon-youtube:hover::before {
 .contact-form input[type="email"],.contact-form input[type="text"]{width:80%!important; max-width:80%!important;}
 .wcorg-sponsor h3{display: none!important;}
 
-.post-2848 .entry-content p, .post-33 .entry-content p, .comment-content p, .entry-content address {
+.post-2746 .entry-content p, .post-2848 .entry-content p, .post-33 .entry-content p, .comment-content p, .entry-content address {
     line-height: 1.5;
     margin: 0 0 0.5rem;
     text-align: justify!important;
@@ -61,8 +61,9 @@ a.genericon-youtube:hover::before {
     width: 130px!important;
     height: 130px!important;
 }
-
-.post-2848 h2, .post-33 h2 {
+.post-2746 h2,
+.post-2848 h2, 
+.post-33 h2 {
     border-bottom: 2px solid #4191ce;
     padding-bottom: .5rem;
     font-weight: 700;
