@@ -62,7 +62,8 @@ a.genericon-youtube:hover::before {
     height: 130px!important;
 }
 
-.post-2848 h2, .post-33 h2 {
+.post-2848 h2, .post-33 h2, 
+.post-2874 h2 {
     border-bottom: 2px solid #4191ce;
     padding-bottom: .5rem;
     font-weight: 700;
