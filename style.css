@@ -121,8 +121,8 @@ a.genericon-youtube:hover::before {
 	}
 
 .flip-container, .front, .back {
-	width: 320px;
-	height: 480px;
+	width: 200px;
+	height: 200px;
 }
 
 /* flip speed goes here */
