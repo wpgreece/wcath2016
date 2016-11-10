@@ -427,7 +427,7 @@ input[type='submit']:hover {
 }
 #after-header-widgets .textwidget h4 {
 	font-size:1.5rem;
-	margin:0 0 .75rem
+	margin:0 0 .75rem;
 }
 #after-header-widgets .textwidget img {
 	border-radius:2px;
