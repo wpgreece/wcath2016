@@ -1199,10 +1199,12 @@ footer.entry-meta .sep {
     padding: 10px;
     text-align: center;
     background: #2C7CEC;
+    color: white;
 }
 
 .budget td {
     padding: 8px;
+    border: 1px solid #969696;
 }
 
 .budget table {
@@ -1211,4 +1213,8 @@ footer.entry-meta .sep {
     font-size: .8rem;
     border: 1px solid #2C7CEC;
     margin-bottom: 20px;
+}
+
+.budget tfoot td {
+    background: #e9e9e9;
 }
