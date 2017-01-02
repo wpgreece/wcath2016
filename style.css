@@ -1194,3 +1194,12 @@ footer.entry-meta .sep {
 		width:40%
 	}
 }
+
+.budget th {
+    padding: 10px;
+    text-align: center;
+}
+
+.budget td {
+    padding: 8px;
+}
