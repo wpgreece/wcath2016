@@ -1198,8 +1198,17 @@ footer.entry-meta .sep {
 .budget th {
     padding: 10px;
     text-align: center;
+    background: #2C7CEC;
 }
 
 .budget td {
     padding: 8px;
+}
+
+.budget table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    font-size: .8rem;
+    border: 1px solid #2C7CEC;
+    margin-bottom: 20px;
 }
