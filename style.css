@@ -345,7 +345,7 @@ input[type='submit']:hover {
 	border-top-color:#fff;
 }
 .main-navigation ul > li.menu-item-has-children > a:hover:after {
-	border-top-color:#e97067
+	border-top-color:#fff
 }
 .main-navigation ul li:hover ul {
 	display:block
